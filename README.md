@@ -49,3 +49,4 @@ UE 会自动注册此目录；无需修改系统 Python。Qt 版本应保持一�
 本项目自有源码采用 [MIT](LICENSE) 许可证，作者 Kulin。
 
 Release 中的 Qt / PySide6 / shiboken6 及其第三方组件保留各自上游许可证，**不由本项目的 MIT 许可证重新授权**。详情见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)、`ThirdPartyLicenses` 和随包分发的 `*.dist-info` 文件。
+## Star History
