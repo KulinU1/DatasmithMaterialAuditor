@@ -1,0 +1,39 @@
+{
+  "FileVersion": 3,
+  "Version": 24,
+  "VersionName": "0.9.6",
+  "FriendlyName": "Datasmith Material Auditor",
+  "Description": "Audits Datasmith materials and mesh quality, and generates scale-aware box UVs. Model preparation and collision tools are provided by SceneWeaver.",
+  "Category": "Editor",
+  "CreatedBy": "Kulin",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "EngineVersion": "5.8.0",
+  "Installed": true,
+  "EnabledByDefault": true,
+  "Modules": [
+    {
+      "Name": "DatasmithMaterialAuditorEditor",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    },
+    {
+      "Name": "AutomationUtils",
+      "Enabled": true
+    },
+    {
+      "Name": "GeometryScripting",
+      "Enabled": true
+    }
+  ]
+}

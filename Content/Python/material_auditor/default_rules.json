@@ -1,0 +1,27 @@
+{
+  "glass_keywords": [
+    "glass",
+    "glazing",
+    "window",
+    "vitre",
+    "crystal",
+    "玻璃",
+    "窗"
+  ],
+  "exclude_keywords": [
+    "water",
+    "foliage",
+    "leaf",
+    "leaves",
+    "grass",
+    "curtain",
+    "decal",
+    "sky",
+    "particle",
+    "niagara",
+    "postprocess"
+  ],
+  "glass_material_paths": [],
+  "non_glass_material_paths": [],
+  "excluded_material_paths": []
+}
